@@ -1,0 +1,24 @@
+[project]
+name = "liars-poker-rnad"
+version = "0.1.0"
+description = "Train agents to play Liar's Poker, evaluate their performance, and play interactively"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=26.1.0",
+    "chex>=0.1.91",
+    "cloudpickle>=3.1.2",
+    "dm-haiku>=0.0.16",
+    "isort>=7.0.0",
+    "jax>=0.9.0.1",
+    "open-spiel",
+    "openai>=2.21.0",
+    "optax>=0.2.7",
+    "pydantic>=2.12.5",
+    "pyyaml>=6.0.3",
+    "rlax>=0.1.8",
+    "tqdm>=4.67.3",
+    "wandb>=0.24.2",
+]
+
+[tool.uv.sources]
+open-spiel = { path = "../open_spiel", editable = true }

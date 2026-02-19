@@ -1,0 +1,12 @@
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.pickle
+*.pkl
+*.log
+config_log*.txt
+summary.txt
+.python-version

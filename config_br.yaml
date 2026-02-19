@@ -1,0 +1,32 @@
+# Liar's Poker checkpoint to evaluate
+# should conform with io.input_dir/agent_%d.pickle
+agent_step: 99_999
+game:
+  hand_length: 3
+  num_digits: 3
+  num_players: 2
+train:
+  seed: null
+  num_train_episodes: 1_000_000
+  evaluate_every: 5000
+  evaluate_num_episodes: 1000
+  # rolling window captures this many evaluations,
+  # ie the number of training episodes in a window is rolling_window_size * evaluate_every
+  rolling_window_size: 10
+  dqn:
+    batch_size: 32
+    hidden_layers_sizes: [64, 64, 64]
+    replay_buffer_capacity: 100_000
+    learning_rate: 0.1
+    discount_factor: 0.99
+    epsilon_start: 0.5
+    epsilon_end: 0.1
+    gradient_clipping: 1.0
+io:
+  # location of Liar's Poker agent to evaluate
+  input_dir: "checkpoints/test"
+  output_dir: "best_response_output/"  # full path will be output_dir/input_dir.replace("/", "_")
+  output_agent_filename: "best_response_agent_%d.pickle"  #  expects a %d for agent_step
+  log_file: "best_response_agent_%d.log"  # expects a %d for agent_step
+  # output final BR agent's performance
+  summary_file: "summary.txt"

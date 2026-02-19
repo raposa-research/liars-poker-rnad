@@ -1,0 +1,17 @@
+app_name: "LiarsPokerRNaD"
+version: 1.0
+game:
+  hand_length: 3
+  num_digits: 3
+  num_players: 2
+train:
+  training_steps: 1_000_000
+  checkpoint_frequency: 10_000
+  rnad:
+    batch_size: 256
+    trajectory_max: 15
+    policy_network_layers: [256, 256]
+io:
+  run_id: "test"
+  load_checkpoint: null
+  save_dir: "checkpoints/"  # checkpoints will be saved in {save_dir}+{run_id}

@@ -1,0 +1,8 @@
+# Config for playing against human opponents
+
+# Liar's Poker checkpoint to use
+agent_path: "checkpoints/test"
+agent_filename: "agent_9999.pickle"
+# debug mode outputs Liar's Poker agent policy to the console (not to log) at each decision point
+debug: false
+output_dir: "play_output/interactive"  # full path will be output_dir/agent_path.replace("/", "_")

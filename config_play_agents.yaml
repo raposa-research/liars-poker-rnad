@@ -1,0 +1,14 @@
+# Config for playing against other agents (OpenAI models, baseline model, self-play)
+
+# Liar's Poker checkpoint to use
+agent_path: "checkpoints/test"
+agent_filename: "agent_9999.pickle"
+output_dir: "play_output/agents"  # full path will be output_dir/agent_path.replace("/", "_")
+
+n_rounds: 1_000
+player_names: ["Solly", "OpenAIo3"]
+player_types: ["agent", "llm"]  # supports agent, llm, or baseline
+
+# Open AI settings if using LLM
+open_ai_api_key: ""
+open_ai_model: "o3"
