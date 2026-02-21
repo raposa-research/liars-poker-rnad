@@ -1,0 +1,701 @@
+Game Configuration,Round,Position,Player,Player Type,Hand,Hand Type,Reward,Last bidder,win/loss
+3x3 3-player,1,3,AI,AI,313,2 of a Kind,-1,no,loss
+3x3 3-player,1,2,Player1,Human,313,2 of a Kind,2,yes,win
+3x3 3-player,1,1,Player2,Human,131,2 of a Kind,-1,no,loss
+3x3 3-player,2,2,AI,AI,331,2 of a Kind,1,no,win
+3x3 3-player,2,1,Player1,Human,131,2 of a Kind,-2,yes,loss
+3x3 3-player,2,3,Player2,Human,233,2 of a Kind,1,no,win
+3x3 3-player,3,2,AI,AI,211,2 of a Kind,1,no,win
+3x3 3-player,3,1,Player1,Human,122,2 of a Kind,-2,yes,loss
+3x3 3-player,3,3,Player2,Human,313,2 of a Kind,1,no,win
+3x3 3-player,4,2,AI,AI,332,2 of a Kind,1,no,win
+3x3 3-player,4,1,Player1,Human,221,2 of a Kind,-2,yes,loss
+3x3 3-player,4,3,Player2,Human,133,2 of a Kind,1,no,win
+3x3 3-player,5,2,AI,AI,223,2 of a Kind,2,yes,win
+3x3 3-player,5,1,Player1,Human,131,2 of a Kind,-1,no,loss
+3x3 3-player,5,3,Player2,Human,212,2 of a Kind,-1,no,loss
+3x3 3-player,6,1,AI,AI,323,2 of a Kind,2,yes,win
+3x3 3-player,6,3,Player1,Human,131,2 of a Kind,-1,no,loss
+3x3 3-player,6,2,Player2,Human,131,2 of a Kind,-1,no,loss
+3x3 3-player,7,1,AI,AI,132,1 of each,2,yes,win
+3x3 3-player,7,3,Player1,Human,223,2 of a Kind,-1,no,loss
+3x3 3-player,7,2,Player2,Human,211,2 of a Kind,-1,no,loss
+3x3 3-player,8,1,AI,AI,312,1 of each,2,yes,win
+3x3 3-player,8,3,Player1,Human,231,1 of each,-1,no,loss
+3x3 3-player,8,2,Player2,Human,322,2 of a Kind,-1,no,loss
+3x3 3-player,9,1,AI,AI,312,1 of each,1,no,win
+3x3 3-player,9,3,Player1,Human,221,2 of a Kind,-2,yes,loss
+3x3 3-player,9,2,Player2,Human,132,1 of each,1,no,win
+3x3 3-player,10,2,AI,AI,222,3 of a Kind,2,yes,win
+3x3 3-player,10,1,Player1,Human,311,2 of a Kind,-1,no,loss
+3x3 3-player,10,3,Player2,Human,322,2 of a Kind,-1,no,loss
+3x3 3-player,11,1,AI,AI,111,3 of a Kind,2,yes,win
+3x3 3-player,11,3,Player1,Human,212,2 of a Kind,-1,no,loss
+3x3 3-player,11,2,Player2,Human,211,2 of a Kind,-1,no,loss
+3x3 3-player,12,1,AI,AI,322,2 of a Kind,-2,yes,loss
+3x3 3-player,12,3,Player1,Human,111,3 of a Kind,1,no,win
+3x3 3-player,12,2,Player2,Human,222,3 of a Kind,1,no,win
+3x3 3-player,13,1,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,13,3,Player1,Human,331,2 of a Kind,2,yes,win
+3x3 3-player,13,2,Player2,Human,233,2 of a Kind,-1,no,loss
+3x3 3-player,14,2,AI,AI,123,1 of each,1,no,win
+3x3 3-player,14,1,Player1,Human,331,2 of a Kind,-2,yes,loss
+3x3 3-player,14,3,Player2,Human,112,2 of a Kind,1,no,win
+3x3 3-player,15,2,AI,AI,312,1 of each,-2,yes,loss
+3x3 3-player,15,1,Player1,Human,123,1 of each,1,no,win
+3x3 3-player,15,3,Player2,Human,323,2 of a Kind,1,no,win
+3x3 3-player,16,1,AI,AI,321,1 of each,1,no,win
+3x3 3-player,16,3,Player1,Human,213,1 of each,1,no,win
+3x3 3-player,16,2,Player2,Human,111,3 of a Kind,-2,yes,loss
+3x3 3-player,17,3,AI,AI,331,2 of a Kind,-2,yes,loss
+3x3 3-player,17,2,Player1,Human,231,1 of each,1,no,win
+3x3 3-player,17,1,Player2,Human,121,2 of a Kind,1,no,win
+3x3 3-player,18,1,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 3-player,18,3,Player1,Human,222,3 of a Kind,2,yes,win
+3x3 3-player,18,2,Player2,Human,121,2 of a Kind,-1,no,loss
+3x3 3-player,19,2,AI,AI,133,2 of a Kind,2,yes,win
+3x3 3-player,19,1,Player1,Human,311,2 of a Kind,-1,no,loss
+3x3 3-player,19,3,Player2,Human,123,1 of each,-1,no,loss
+3x3 3-player,20,1,AI,AI,222,3 of a Kind,2,yes,win
+3x3 3-player,20,3,Player1,Human,111,3 of a Kind,-1,no,loss
+3x3 3-player,20,2,Player2,Human,122,2 of a Kind,-1,no,loss
+3x3 3-player,21,1,AI,AI,222,3 of a Kind,1,no,win
+3x3 3-player,21,3,Player1,Human,121,2 of a Kind,1,no,win
+3x3 3-player,21,2,Player2,Human,333,3 of a Kind,-2,yes,loss
+3x3 3-player,22,3,AI,AI,122,2 of a Kind,2,yes,win
+3x3 3-player,22,2,Player1,Human,311,2 of a Kind,-1,no,loss
+3x3 3-player,22,1,Player2,Human,212,2 of a Kind,-1,no,loss
+3x3 3-player,23,1,AI,AI,221,2 of a Kind,2,yes,win
+3x3 3-player,23,3,Player1,Human,121,2 of a Kind,-1,no,loss
+3x3 3-player,23,2,Player2,Human,331,2 of a Kind,-1,no,loss
+3x3 3-player,24,1,AI,AI,221,2 of a Kind,2,yes,win
+3x3 3-player,24,3,Player1,Human,122,2 of a Kind,-1,no,loss
+3x3 3-player,24,2,Player2,Human,221,2 of a Kind,-1,no,loss
+3x3 3-player,25,1,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 3-player,25,3,Player1,Human,231,1 of each,-1,no,loss
+3x3 3-player,25,2,Player2,Human,133,2 of a Kind,2,yes,win
+3x3 3-player,26,3,AI,AI,121,2 of a Kind,-2,yes,loss
+3x3 3-player,26,2,Player1,Human,211,2 of a Kind,1,no,win
+3x3 3-player,26,1,Player2,Human,232,2 of a Kind,1,no,win
+3x3 3-player,27,1,AI,AI,312,1 of each,-1,no,loss
+3x3 3-player,27,3,Player1,Human,211,2 of a Kind,-1,no,loss
+3x3 3-player,27,2,Player2,Human,111,3 of a Kind,2,yes,win
+3x3 3-player,28,3,AI,AI,311,2 of a Kind,-2,yes,loss
+3x3 3-player,28,2,Player1,Human,322,2 of a Kind,1,no,win
+3x3 3-player,28,1,Player2,Human,312,1 of each,1,no,win
+3x3 3-player,29,1,AI,AI,231,1 of each,-2,yes,loss
+3x3 3-player,29,3,Player1,Human,221,2 of a Kind,1,no,win
+3x3 3-player,29,2,Player2,Human,132,1 of each,1,no,win
+3x3 3-player,30,1,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,30,3,Player1,Human,332,2 of a Kind,2,yes,win
+3x3 3-player,30,2,Player2,Human,332,2 of a Kind,-1,no,loss
+3x3 3-player,31,2,AI,AI,112,2 of a Kind,-2,yes,loss
+3x3 3-player,31,1,Player1,Human,332,2 of a Kind,1,no,win
+3x3 3-player,31,3,Player2,Human,232,2 of a Kind,1,no,win
+3x3 3-player,32,1,AI,AI,223,2 of a Kind,-2,yes,loss
+3x3 3-player,32,3,Player1,Human,332,2 of a Kind,1,no,win
+3x3 3-player,32,2,Player2,Human,112,2 of a Kind,1,no,win
+3x3 3-player,33,1,AI,AI,122,2 of a Kind,-2,yes,loss
+3x3 3-player,33,3,Player1,Human,323,2 of a Kind,1,no,win
+3x3 3-player,33,2,Player2,Human,133,2 of a Kind,1,no,win
+3x3 3-player,34,1,AI,AI,133,2 of a Kind,-1,no,loss
+3x3 3-player,34,3,Player1,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,34,2,Player2,Human,232,2 of a Kind,-1,no,loss
+3x3 3-player,35,2,AI,AI,311,2 of a Kind,1,no,win
+3x3 3-player,35,1,Player1,Human,122,2 of a Kind,-2,yes,loss
+3x3 3-player,35,3,Player2,Human,132,1 of each,1,no,win
+3x3 3-player,36,2,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,36,1,Player1,Human,131,2 of a Kind,-1,no,loss
+3x3 3-player,36,3,Player2,Human,133,2 of a Kind,2,yes,win
+3x3 3-player,37,3,AI,AI,223,2 of a Kind,2,yes,win
+3x3 3-player,37,2,Player1,Human,231,1 of each,-1,no,loss
+3x3 3-player,37,1,Player2,Human,123,1 of each,-1,no,loss
+3x3 3-player,38,1,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,38,3,Player1,Human,132,1 of each,2,yes,win
+3x3 3-player,38,2,Player2,Human,233,2 of a Kind,-1,no,loss
+3x3 3-player,39,2,AI,AI,113,2 of a Kind,2,yes,win
+3x3 3-player,39,1,Player1,Human,121,2 of a Kind,-1,no,loss
+3x3 3-player,39,3,Player2,Human,211,2 of a Kind,-1,no,loss
+3x3 3-player,40,1,AI,AI,222,3 of a Kind,2,yes,win
+3x3 3-player,40,3,Player1,Human,323,2 of a Kind,-1,no,loss
+3x3 3-player,40,2,Player2,Human,312,1 of each,-1,no,loss
+3x3 3-player,41,1,AI,AI,223,2 of a Kind,2,yes,win
+3x3 3-player,41,2,Player1,Human,313,2 of a Kind,-1,no,loss
+3x3 3-player,41,3,Player2,Human,233,2 of a Kind,-1,no,loss
+3x3 3-player,42,1,AI,AI,133,2 of a Kind,2,yes,win
+3x3 3-player,42,2,Player1,Human,233,2 of a Kind,-1,no,loss
+3x3 3-player,42,3,Player2,Human,121,2 of a Kind,-1,no,loss
+3x3 3-player,43,1,AI,AI,323,2 of a Kind,-2,yes,loss
+3x3 3-player,43,2,Player1,Human,122,2 of a Kind,1,no,win
+3x3 3-player,43,3,Player2,Human,222,3 of a Kind,1,no,win
+3x3 3-player,44,1,AI,AI,121,2 of a Kind,2,yes,win
+3x3 3-player,44,2,Player1,Human,112,2 of a Kind,-1,no,loss
+3x3 3-player,44,3,Player2,Human,331,2 of a Kind,-1,no,loss
+3x3 3-player,45,1,AI,AI,213,1 of each,-1,no,loss
+3x3 3-player,45,2,Player1,Human,111,3 of a Kind,2,yes,win
+3x3 3-player,45,3,Player2,Human,221,2 of a Kind,-1,no,loss
+3x3 3-player,46,3,AI,AI,332,2 of a Kind,-2,yes,loss
+3x3 3-player,46,1,Player1,Human,211,2 of a Kind,1,no,win
+3x3 3-player,46,2,Player2,Human,223,2 of a Kind,1,no,win
+3x3 3-player,47,1,AI,AI,133,2 of a Kind,1,no,win
+3x3 3-player,47,2,Player1,Human,112,2 of a Kind,1,no,win
+3x3 3-player,47,3,Player2,Human,313,2 of a Kind,-2,yes,loss
+3x3 3-player,48,2,AI,AI,231,1 of each,-2,yes,loss
+3x3 3-player,48,3,Player1,Human,213,1 of each,1,no,win
+3x3 3-player,48,1,Player2,Human,311,2 of a Kind,1,no,win
+3x3 3-player,49,1,AI,AI,233,2 of a Kind,-1,no,loss
+3x3 3-player,49,2,Player1,Human,223,2 of a Kind,-1,no,loss
+3x3 3-player,49,3,Player2,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,50,2,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 3-player,50,3,Player1,Human,313,2 of a Kind,2,yes,win
+3x3 3-player,50,1,Player2,Human,313,2 of a Kind,-1,no,loss
+3x3 3-player,51,3,AI,AI,132,1 of each,1,no,win
+3x3 3-player,51,1,Player1,Human,321,1 of each,1,no,win
+3x3 3-player,51,2,Player2,Human,321,1 of each,-2,yes,loss
+3x3 3-player,52,2,AI,AI,223,2 of a Kind,-1,no,loss
+3x3 3-player,52,3,Player1,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,52,1,Player2,Human,233,2 of a Kind,-1,no,loss
+3x3 3-player,53,3,AI,AI,113,2 of a Kind,1,no,win
+3x3 3-player,53,1,Player1,Human,113,2 of a Kind,1,no,win
+3x3 3-player,53,2,Player2,Human,221,2 of a Kind,-2,yes,loss
+3x3 3-player,54,2,AI,AI,231,1 of each,-1,no,loss
+3x3 3-player,54,3,Player1,Human,323,2 of a Kind,2,yes,win
+3x3 3-player,54,1,Player2,Human,113,2 of a Kind,-1,no,loss
+3x3 3-player,55,3,AI,AI,223,2 of a Kind,1,no,win
+3x3 3-player,55,1,Player1,Human,332,2 of a Kind,-2,yes,loss
+3x3 3-player,55,2,Player2,Human,211,2 of a Kind,1,no,win
+3x3 3-player,56,3,AI,AI,332,2 of a Kind,1,no,win
+3x3 3-player,56,1,Player1,Human,221,2 of a Kind,1,no,win
+3x3 3-player,56,2,Player2,Human,133,2 of a Kind,-2,yes,loss
+3x3 3-player,57,2,AI,AI,322,2 of a Kind,-1,no,loss
+3x3 3-player,57,3,Player1,Human,232,2 of a Kind,-1,no,loss
+3x3 3-player,57,1,Player2,Human,323,2 of a Kind,2,yes,win
+3x3 3-player,58,2,AI,AI,231,1 of each,1,no,win
+3x3 3-player,58,3,Player1,Human,212,2 of a Kind,1,no,win
+3x3 3-player,58,1,Player2,Human,331,2 of a Kind,-2,yes,loss
+3x3 3-player,59,2,AI,AI,231,1 of each,-1,no,loss
+3x3 3-player,59,3,Player1,Human,322,2 of a Kind,-1,no,loss
+3x3 3-player,59,1,Player2,Human,222,3 of a Kind,2,yes,win
+3x3 3-player,60,2,AI,AI,111,3 of a Kind,-2,yes,loss
+3x3 3-player,60,3,Player1,Human,133,2 of a Kind,1,no,win
+3x3 3-player,60,1,Player2,Human,222,3 of a Kind,1,no,win
+3x3 3-player,61,1,AI,AI,332,2 of a Kind,-2,yes,loss
+3x3 3-player,61,2,Player1,Human,111,3 of a Kind,1,no,win
+3x3 3-player,61,3,Player2,Human,312,1 of each,1,no,win
+3x3 3-player,62,1,AI,AI,333,3 of a Kind,-2,yes,loss
+3x3 3-player,62,2,Player1,Human,222,3 of a Kind,1,no,win
+3x3 3-player,62,3,Player2,Human,222,3 of a Kind,1,no,win
+3x3 3-player,63,1,AI,AI,121,2 of a Kind,1,no,win
+3x3 3-player,63,2,Player1,Human,111,3 of a Kind,1,no,win
+3x3 3-player,63,3,Player2,Human,333,3 of a Kind,-2,yes,loss
+3x3 3-player,64,2,AI,AI,321,1 of each,1,no,win
+3x3 3-player,64,3,Player1,Human,113,2 of a Kind,1,no,win
+3x3 3-player,64,1,Player2,Human,133,2 of a Kind,-2,yes,loss
+3x3 3-player,65,2,AI,AI,331,2 of a Kind,2,yes,win
+3x3 3-player,65,3,Player1,Human,231,1 of each,-1,no,loss
+3x3 3-player,65,1,Player2,Human,123,1 of each,-1,no,loss
+3x3 3-player,66,1,AI,AI,122,2 of a Kind,-1,no,loss
+3x3 3-player,66,2,Player1,Human,221,2 of a Kind,2,yes,win
+3x3 3-player,66,3,Player2,Human,223,2 of a Kind,-1,no,loss
+3x3 3-player,67,3,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,67,1,Player1,Human,322,2 of a Kind,-1,no,loss
+3x3 3-player,67,2,Player2,Human,332,2 of a Kind,2,yes,win
+3x3 3-player,68,2,AI,AI,322,2 of a Kind,-2,yes,loss
+3x3 3-player,68,3,Player1,Human,221,2 of a Kind,1,no,win
+3x3 3-player,68,1,Player2,Human,312,1 of each,1,no,win
+3x3 3-player,69,1,AI,AI,323,2 of a Kind,1,no,win
+3x3 3-player,69,2,Player1,Human,111,3 of a Kind,1,no,win
+3x3 3-player,69,3,Player2,Human,311,2 of a Kind,-2,yes,loss
+3x3 3-player,70,2,AI,AI,222,3 of a Kind,1,no,win
+3x3 3-player,70,3,Player1,Human,111,3 of a Kind,-2,yes,loss
+3x3 3-player,70,1,Player2,Human,322,2 of a Kind,1,no,win
+3x3 3-player,71,3,AI,AI,122,2 of a Kind,2,yes,win
+3x3 3-player,71,1,Player1,Human,122,2 of a Kind,-1,no,loss
+3x3 3-player,71,2,Player2,Human,132,1 of each,-1,no,loss
+3x3 3-player,72,1,AI,AI,111,3 of a Kind,1,no,win
+3x3 3-player,72,2,Player1,Human,312,1 of each,1,no,win
+3x3 3-player,72,3,Player2,Human,133,2 of a Kind,-2,yes,loss
+3x3 3-player,73,2,AI,AI,313,2 of a Kind,1,no,win
+3x3 3-player,73,3,Player1,Human,322,2 of a Kind,-2,yes,loss
+3x3 3-player,73,1,Player2,Human,321,1 of each,1,no,win
+3x3 3-player,74,3,AI,AI,121,2 of a Kind,1,no,win
+3x3 3-player,74,1,Player1,Human,133,2 of a Kind,1,no,win
+3x3 3-player,74,2,Player2,Human,133,2 of a Kind,-2,yes,loss
+3x3 3-player,75,2,AI,AI,221,2 of a Kind,2,yes,win
+3x3 3-player,75,3,Player1,Human,312,1 of each,-1,no,loss
+3x3 3-player,75,1,Player2,Human,123,1 of each,-1,no,loss
+3x3 3-player,76,1,AI,AI,312,1 of each,2,yes,win
+3x3 3-player,76,2,Player1,Human,121,2 of a Kind,-1,no,loss
+3x3 3-player,76,3,Player2,Human,113,2 of a Kind,-1,no,loss
+3x3 3-player,77,1,AI,AI,323,2 of a Kind,2,yes,win
+3x3 3-player,77,2,Player1,Human,221,2 of a Kind,-1,no,loss
+3x3 3-player,77,3,Player2,Human,331,2 of a Kind,-1,no,loss
+3x3 3-player,78,1,AI,AI,111,3 of a Kind,2,yes,win
+3x3 3-player,78,2,Player1,Human,123,1 of each,-1,no,loss
+3x3 3-player,78,3,Player2,Human,132,1 of each,-1,no,loss
+3x3 3-player,79,1,AI,AI,333,3 of a Kind,-1,no,loss
+3x3 3-player,79,2,Player1,Human,212,2 of a Kind,-1,no,loss
+3x3 3-player,79,3,Player2,Human,312,1 of each,2,yes,win
+3x3 3-player,80,2,AI,AI,133,2 of a Kind,-1,no,loss
+3x3 3-player,80,3,Player1,Human,331,2 of a Kind,-1,no,loss
+3x3 3-player,80,1,Player2,Human,111,3 of a Kind,2,yes,win
+3x3 3-player,11,2,AI,AI,111,3 of a Kind,-2,yes,loss
+3x3 3-player,11,3,Player1,Human,321,1 of each,1,no,win
+3x3 3-player,11,1,Player3,Human,223,2 of a Kind,1,no,win
+3x3 3-player,12,2,AI,AI,322,2 of a Kind,-1,no,loss
+3x3 3-player,12,3,Player1,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,12,1,Player3,Human,213,1 of each,-1,no,loss
+3x3 3-player,13,3,AI,AI,332,2 of a Kind,2,yes,win
+3x3 3-player,13,1,Player1,Human,113,2 of a Kind,-1,no,loss
+3x3 3-player,13,2,Player3,Human,312,1 of each,-1,no,loss
+3x3 3-player,14,1,AI,AI,123,1 of each,2,yes,win
+3x3 3-player,14,2,Player1,Human,323,2 of a Kind,-1,no,loss
+3x3 3-player,14,3,Player3,Human,213,1 of each,-1,no,loss
+3x3 3-player,15,1,AI,AI,312,1 of each,-1,no,loss
+3x3 3-player,15,2,Player1,Human,332,2 of a Kind,-1,no,loss
+3x3 3-player,15,3,Player3,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,16,2,AI,AI,321,1 of each,1,no,win
+3x3 3-player,16,3,Player1,Human,221,2 of a Kind,-2,yes,loss
+3x3 3-player,16,1,Player3,Human,322,2 of a Kind,1,no,win
+3x3 3-player,17,1,AI,AI,331,2 of a Kind,-1,no,loss
+3x3 3-player,17,2,Player1,Human,232,2 of a Kind,-1,no,loss
+3x3 3-player,17,3,Player3,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,18,2,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 3-player,18,3,Player1,Human,212,2 of a Kind,-1,no,loss
+3x3 3-player,18,1,Player3,Human,331,2 of a Kind,2,yes,win
+3x3 3-player,19,2,AI,AI,133,2 of a Kind,-1,no,loss
+3x3 3-player,19,3,Player1,Human,322,2 of a Kind,-1,no,loss
+3x3 3-player,19,1,Player3,Human,333,3 of a Kind,2,yes,win
+3x3 3-player,20,2,AI,AI,222,3 of a Kind,1,no,win
+3x3 3-player,20,3,Player1,Human,133,2 of a Kind,-2,yes,loss
+3x3 3-player,20,1,Player3,Human,222,3 of a Kind,1,no,win
+3x3 3-player,21,2,AI,AI,222,3 of a Kind,1,no,win
+3x3 3-player,21,3,Player1,Human,111,3 of a Kind,-2,yes,loss
+3x3 3-player,21,1,Player3,Human,123,1 of each,1,no,win
+3x3 3-player,22,2,AI,AI,122,2 of a Kind,-2,yes,loss
+3x3 3-player,22,3,Player1,Human,222,3 of a Kind,1,no,win
+3x3 3-player,22,1,Player3,Human,231,1 of each,1,no,win
+3x3 3-player,23,2,AI,AI,221,2 of a Kind,2,yes,win
+3x3 3-player,23,3,Player1,Human,111,3 of a Kind,-1,no,loss
+3x3 3-player,23,1,Player3,Human,122,2 of a Kind,-1,no,loss
+3x3 3-player,24,1,AI,AI,221,2 of a Kind,-1,no,loss
+3x3 3-player,24,2,Player1,Human,113,2 of a Kind,-1,no,loss
+3x3 3-player,24,3,Player3,Human,212,2 of a Kind,2,yes,win
+3x3 3-player,25,2,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 3-player,25,3,Player1,Human,231,1 of each,-1,no,loss
+3x3 3-player,25,1,Player3,Human,313,2 of a Kind,2,yes,win
+3x3 3-player,26,2,AI,AI,121,2 of a Kind,1,no,win
+3x3 3-player,26,3,Player1,Human,221,2 of a Kind,-2,yes,loss
+3x3 3-player,26,1,Player3,Human,122,2 of a Kind,1,no,win
+3x3 3-player,27,1,AI,AI,312,1 of each,1,no,win
+3x3 3-player,27,2,Player1,Human,322,2 of a Kind,1,no,win
+3x3 3-player,27,3,Player3,Human,112,2 of a Kind,-2,yes,loss
+3x3 3-player,28,1,AI,AI,311,2 of a Kind,2,yes,win
+3x3 3-player,28,2,Player1,Human,221,2 of a Kind,-1,no,loss
+3x3 3-player,28,3,Player3,Human,122,2 of a Kind,-1,no,loss
+3x3 3-player,29,1,AI,AI,231,1 of each,1,no,win
+3x3 3-player,29,2,Player1,Human,111,3 of a Kind,1,no,win
+3x3 3-player,29,3,Player3,Human,332,2 of a Kind,-2,yes,loss
+3x3 3-player,30,3,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 3-player,30,1,Player1,Human,111,3 of a Kind,2,yes,win
+3x3 3-player,30,2,Player3,Human,311,2 of a Kind,-1,no,loss
+3x3 2-player,1,1,AI,AI,313,2 of a Kind,1,no,win
+3x3 2-player,1,2,Player4,Human,212,2 of a Kind,-1,yes,loss
+3x3 2-player,2,2,AI,AI,331,2 of a Kind,1,no,win
+3x3 2-player,2,1,Player4,Human,113,2 of a Kind,-1,yes,loss
+3x3 2-player,3,2,AI,AI,211,2 of a Kind,-1,yes,loss
+3x3 2-player,3,1,Player4,Human,312,1 of each,1,no,win
+3x3 2-player,4,1,AI,AI,332,2 of a Kind,-1,yes,loss
+3x3 2-player,4,2,Player4,Human,122,2 of a Kind,1,no,win
+3x3 2-player,5,1,AI,AI,223,2 of a Kind,-1,yes,loss
+3x3 2-player,5,2,Player4,Human,312,1 of each,1,no,win
+3x3 2-player,6,1,AI,AI,323,2 of a Kind,1,no,win
+3x3 2-player,6,2,Player4,Human,311,2 of a Kind,-1,yes,loss
+3x3 2-player,7,2,AI,AI,132,1 of each,-1,yes,loss
+3x3 2-player,7,1,Player4,Human,231,1 of each,1,no,win
+3x3 2-player,8,1,AI,AI,312,1 of each,-1,no,loss
+3x3 2-player,8,2,Player4,Human,133,2 of a Kind,1,yes,win
+3x3 2-player,9,2,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,9,1,Player4,Human,213,1 of each,1,no,win
+3x3 2-player,10,1,AI,AI,222,3 of a Kind,1,no,win
+3x3 2-player,10,2,Player4,Human,221,2 of a Kind,-1,yes,loss
+3x3 2-player,11,2,AI,AI,111,3 of a Kind,1,yes,win
+3x3 2-player,11,1,Player4,Human,112,2 of a Kind,-1,no,loss
+3x3 2-player,12,1,AI,AI,322,2 of a Kind,-1,no,loss
+3x3 2-player,12,2,Player4,Human,312,1 of each,1,yes,win
+3x3 2-player,13,2,AI,AI,332,2 of a Kind,-1,yes,loss
+3x3 2-player,13,1,Player4,Human,122,2 of a Kind,1,no,win
+3x3 2-player,14,1,AI,AI,123,1 of each,1,no,win
+3x3 2-player,14,2,Player4,Human,121,2 of a Kind,-1,yes,loss
+3x3 2-player,15,2,AI,AI,312,1 of each,-1,no,loss
+3x3 2-player,15,1,Player4,Human,133,2 of a Kind,1,yes,win
+3x3 2-player,16,2,AI,AI,321,1 of each,1,no,win
+3x3 2-player,16,1,Player4,Human,223,2 of a Kind,-1,yes,loss
+3x3 2-player,17,2,AI,AI,331,2 of a Kind,1,no,win
+3x3 2-player,17,1,Player4,Human,223,2 of a Kind,-1,yes,loss
+3x3 2-player,18,2,AI,AI,331,2 of a Kind,-1,no,loss
+3x3 2-player,18,1,Player4,Human,113,2 of a Kind,1,yes,win
+3x3 2-player,19,2,AI,AI,133,2 of a Kind,1,no,win
+3x3 2-player,19,1,Player4,Human,211,2 of a Kind,-1,yes,loss
+3x3 2-player,20,2,AI,AI,222,3 of a Kind,1,no,win
+3x3 2-player,20,1,Player4,Human,331,2 of a Kind,-1,yes,loss
+3x3 2-player,1,1,AI,AI,223,2 of a Kind,1,no,win
+3x3 2-player,1,2,Player1,Human,111,3 of a Kind,-1,yes,loss
+3x3 2-player,2,1,AI,AI,113,2 of a Kind,1,yes,win
+3x3 2-player,2,2,Player1,Human,233,2 of a Kind,-1,no,loss
+3x3 2-player,3,1,AI,AI,323,2 of a Kind,1,yes,win
+3x3 2-player,3,2,Player1,Human,213,1 of each,-1,no,loss
+3x3 2-player,4,1,AI,AI,121,2 of a Kind,-1,no,loss
+3x3 2-player,4,2,Player1,Human,311,2 of a Kind,1,yes,win
+3x3 2-player,5,2,AI,AI,213,1 of each,-1,yes,loss
+3x3 2-player,5,1,Player1,Human,223,2 of a Kind,1,no,win
+3x3 2-player,6,2,AI,AI,332,2 of a Kind,1,yes,win
+3x3 2-player,6,1,Player1,Human,231,1 of each,-1,no,loss
+3x3 2-player,7,1,AI,AI,133,2 of a Kind,1,yes,win
+3x3 2-player,7,2,Player1,Human,312,1 of each,-1,no,loss
+3x3 2-player,8,1,AI,AI,231,1 of each,-1,no,loss
+3x3 2-player,8,2,Player1,Human,331,2 of a Kind,1,yes,win
+3x3 2-player,9,2,AI,AI,233,2 of a Kind,1,no,win
+3x3 2-player,9,1,Player1,Human,311,2 of a Kind,-1,yes,loss
+3x3 2-player,10,1,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 2-player,10,2,Player1,Human,311,2 of a Kind,1,yes,win
+3x3 2-player,11,1,AI,AI,132,1 of each,-1,yes,loss
+3x3 2-player,11,2,Player1,Human,123,1 of each,1,no,win
+3x3 2-player,12,2,AI,AI,223,2 of a Kind,-1,no,loss
+3x3 2-player,12,1,Player1,Human,333,3 of a Kind,1,yes,win
+3x3 2-player,13,2,AI,AI,113,2 of a Kind,-1,no,loss
+3x3 2-player,13,1,Player1,Human,111,3 of a Kind,1,yes,win
+3x3 2-player,14,2,AI,AI,231,1 of each,-1,yes,loss
+3x3 2-player,14,1,Player1,Human,312,1 of each,1,no,win
+3x3 2-player,15,2,AI,AI,223,2 of a Kind,-1,no,loss
+3x3 2-player,15,1,Player1,Human,212,2 of a Kind,1,yes,win
+3x3 2-player,16,2,AI,AI,332,2 of a Kind,-1,no,loss
+3x3 2-player,16,1,Player1,Human,212,2 of a Kind,1,yes,win
+3x3 2-player,17,2,AI,AI,322,2 of a Kind,1,yes,win
+3x3 2-player,17,1,Player1,Human,123,1 of each,-1,no,loss
+3x3 2-player,18,1,AI,AI,231,1 of each,-1,no,loss
+3x3 2-player,18,2,Player1,Human,111,3 of a Kind,1,yes,win
+3x3 2-player,19,2,AI,AI,231,1 of each,1,no,win
+3x3 2-player,19,1,Player1,Human,322,2 of a Kind,-1,yes,loss
+3x3 2-player,20,1,AI,AI,111,3 of a Kind,1,no,win
+3x3 2-player,20,2,Player1,Human,332,2 of a Kind,-1,yes,loss
+3x3 2-player,1,1,AI,AI,223,2 of a Kind,-1,no,loss
+3x3 2-player,1,2,Player5,Human,332,2 of a Kind,1,yes,win
+3x3 2-player,2,2,AI,AI,331,2 of a Kind,-1,yes,loss
+3x3 2-player,2,1,Player5,Human,132,1 of each,1,no,win
+3x3 2-player,3,1,AI,AI,232,2 of a Kind,-1,no,loss
+3x3 2-player,3,2,Player5,Human,233,2 of a Kind,1,yes,win
+3x3 2-player,4,2,AI,AI,213,1 of each,-1,yes,loss
+3x3 2-player,4,1,Player5,Human,123,1 of each,1,no,win
+3x3 2-player,5,1,AI,AI,221,2 of a Kind,-1,no,loss
+3x3 2-player,5,2,Player5,Human,111,3 of a Kind,1,yes,win
+3x3 2-player,6,2,AI,AI,333,3 of a Kind,1,yes,win
+3x3 2-player,6,1,Player5,Human,121,2 of a Kind,-1,no,loss
+3x3 2-player,7,2,AI,AI,113,2 of a Kind,1,no,win
+3x3 2-player,7,1,Player5,Human,321,1 of each,-1,yes,loss
+3x3 2-player,8,2,AI,AI,333,3 of a Kind,1,yes,win
+3x3 2-player,8,1,Player5,Human,212,2 of a Kind,-1,no,loss
+3x3 2-player,9,2,AI,AI,121,2 of a Kind,-1,no,loss
+3x3 2-player,9,1,Player5,Human,222,3 of a Kind,1,yes,win
+3x3 2-player,10,1,AI,AI,131,2 of a Kind,-1,no,loss
+3x3 2-player,10,2,Player5,Human,332,2 of a Kind,1,yes,win
+3x3 2-player,11,2,AI,AI,112,2 of a Kind,-1,no,loss
+3x3 2-player,11,1,Player5,Human,122,2 of a Kind,1,yes,win
+3x3 2-player,12,1,AI,AI,331,2 of a Kind,-1,no,loss
+3x3 2-player,12,2,Player5,Human,222,3 of a Kind,1,yes,win
+3x3 2-player,13,2,AI,AI,211,2 of a Kind,-1,no,loss
+3x3 2-player,13,1,Player5,Human,221,2 of a Kind,1,yes,win
+3x3 2-player,14,1,AI,AI,123,1 of each,1,no,win
+3x3 2-player,14,2,Player5,Human,122,2 of a Kind,-1,yes,loss
+3x3 2-player,15,1,AI,AI,132,1 of each,-1,yes,loss
+3x3 2-player,15,2,Player5,Human,321,1 of each,1,no,win
+3x3 2-player,16,2,AI,AI,211,2 of a Kind,-1,no,loss
+3x3 2-player,16,1,Player5,Human,121,2 of a Kind,1,yes,win
+3x3 2-player,17,1,AI,AI,113,2 of a Kind,-1,no,loss
+3x3 2-player,17,2,Player5,Human,313,2 of a Kind,1,yes,win
+3x3 2-player,18,2,AI,AI,121,2 of a Kind,1,no,win
+3x3 2-player,18,1,Player5,Human,323,2 of a Kind,-1,yes,loss
+3x3 2-player,19,2,AI,AI,221,2 of a Kind,-1,no,loss
+3x3 2-player,19,1,Player5,Human,221,2 of a Kind,1,yes,win
+3x3 2-player,20,1,AI,AI,213,1 of each,-1,no,loss
+3x3 2-player,20,2,Player5,Human,331,2 of a Kind,1,yes,win
+3x3 2-player,1,1,AI,AI,311,2 of a Kind,-1,no,loss
+3x3 2-player,1,2,Player2,Human,333,3 of a Kind,1,yes,win
+3x3 2-player,2,2,AI,AI,233,2 of a Kind,1,yes,win
+3x3 2-player,2,1,Player2,Human,311,2 of a Kind,-1,no,loss
+3x3 2-player,3,2,AI,AI,232,1 of each,1,yes,win
+3x3 2-player,3,1,Player2,Human,213,1 of each,-1,no,loss
+3x3 2-player,4,2,AI,AI,133,2 of a Kind,-1,no,loss
+3x3 2-player,4,1,Player2,Human,111,3 of a Kind,1,yes,win
+3x3 2-player,5,1,AI,AI,213,1 of each,1,no,win
+3x3 2-player,5,2,Player2,Human,112,2 of a Kind,-1,yes,loss
+3x3 2-player,6,1,AI,AI,321,1 of each,1,no,win
+3x3 2-player,6,2,Player2,Human,132,1 of each,-1,yes,loss
+3x3 2-player,7,1,AI,AI,332,2 of a Kind,1,yes,win
+3x3 2-player,7,2,Player2,Human,311,2 of a Kind,-1,no,loss
+3x3 2-player,8,1,AI,AI,322,2 of a Kind,-1,yes,loss
+3x3 2-player,8,2,Player2,Human,313,2 of a Kind,1,no,win
+3x3 2-player,9,2,AI,AI,311,2 of a Kind,1,no,win
+3x3 2-player,9,1,Player2,Human,223,2 of a Kind,-1,yes,loss
+3x3 2-player,10,2,AI,AI,112,2 of a Kind,-1,no,loss
+3x3 2-player,10,1,Player2,Human,211,2 of a Kind,1,yes,win
+3x3 2-player,11,1,AI,AI,233,2 of a Kind,1,no,win
+3x3 2-player,11,2,Player2,Human,211,2 of a Kind,-1,yes,loss
+3x3 2-player,12,1,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,12,2,Player2,Human,131,2 of a Kind,1,no,win
+3x3 2-player,13,2,AI,AI,231,1 of each,1,no,win
+3x3 2-player,13,1,Player2,Human,321,1 of each,-1,yes,loss
+3x3 2-player,14,2,AI,AI,112,2 of a Kind,-1,no,loss
+3x3 2-player,14,1,Player2,Human,222,3 of a Kind,1,yes,win
+3x3 2-player,15,1,AI,AI,122,2 of a Kind,-1,no,loss
+3x3 2-player,15,2,Player2,Human,232,2 of a Kind,1,yes,win
+3x3 2-player,16,2,AI,AI,112,2 of a Kind,1,no,win
+3x3 2-player,16,1,Player2,Human,331,2 of a Kind,-1,yes,loss
+3x3 2-player,17,2,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,17,1,Player2,Human,322,2 of a Kind,1,no,win
+3x3 2-player,18,1,AI,AI,321,1 of each,1,no,win
+3x3 2-player,18,2,Player2,Human,312,1 of each,-1,yes,loss
+3x3 2-player,19,1,AI,AI,231,1 of each,1,no,win
+3x3 2-player,19,2,Player2,Human,332,2 of a Kind,-1,yes,loss
+3x3 2-player,20,1,AI,AI,111,3 of a Kind,1,yes,win
+3x3 2-player,20,2,Player2,Human,211,2 of a Kind,-1,no,loss
+3x3 2-player,1,1,AI,AI,112,2 of a Kind,1,yes,win
+3x3 2-player,1,2,Player3,Human,123,1 of each,-1,no,loss
+3x3 2-player,2,1,AI,AI,332,2 of a Kind,1,yes,win
+3x3 2-player,2,2,Player3,Human,132,1 of each,-1,no,loss
+3x3 2-player,3,1,AI,AI,331,2 of a Kind,-1,no,loss
+3x3 2-player,3,2,Player3,Human,332,2 of a Kind,1,yes,win
+3x3 2-player,4,2,AI,AI,132,1 of each,-1,yes,loss
+3x3 2-player,4,1,Player3,Human,311,2 of a Kind,1,no,win
+3x3 2-player,5,1,AI,AI,333,3 of a Kind,1,no,win
+3x3 2-player,5,2,Player3,Human,122,2 of a Kind,-1,yes,loss
+3x3 2-player,6,2,AI,AI,133,2 of a Kind,1,yes,win
+3x3 2-player,6,1,Player3,Human,132,1 of each,-1,no,loss
+3x3 2-player,7,1,AI,AI,313,2 of a Kind,1,yes,win
+3x3 2-player,7,2,Player3,Human,131,2 of a Kind,-1,no,loss
+3x3 2-player,8,1,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,8,2,Player3,Human,311,2 of a Kind,1,no,win
+3x3 2-player,9,1,AI,AI,222,3 of a Kind,1,no,win
+3x3 2-player,9,2,Player3,Human,233,2 of a Kind,-1,yes,loss
+3x3 2-player,10,2,AI,AI,231,1 of each,-1,no,loss
+3x3 2-player,10,1,Player3,Human,333,3 of a Kind,1,yes,win
+3x3 2-player,11,2,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,11,1,Player3,Human,232,2 of a Kind,1,no,win
+3x3 2-player,12,1,AI,AI,132,1 of each,1,no,win
+3x3 2-player,12,2,Player3,Human,232,2 of a Kind,-1,yes,loss
+3x3 2-player,13,2,AI,AI,312,1 of each,-1,yes,loss
+3x3 2-player,13,1,Player3,Human,111,3 of a Kind,1,no,win
+3x3 2-player,14,1,AI,AI,313,2 of a Kind,1,yes,win
+3x3 2-player,14,2,Player3,Human,321,1 of each,-1,no,loss
+3x3 2-player,15,1,AI,AI,321,1 of each,-1,no,loss
+3x3 2-player,15,2,Player3,Human,122,2 of a Kind,1,yes,win
+3x3 2-player,16,2,AI,AI,321,1 of each,-1,yes,loss
+3x3 2-player,16,1,Player3,Human,121,2 of a Kind,1,no,win
+3x3 2-player,17,1,AI,AI,131,2 of a Kind,1,yes,win
+3x3 2-player,17,2,Player3,Human,321,1 of each,-1,no,loss
+3x3 2-player,18,1,AI,AI,223,2 of a Kind,1,no,win
+3x3 2-player,18,2,Player3,Human,211,2 of a Kind,-1,yes,loss
+3x3 2-player,19,2,AI,AI,232,2 of a Kind,1,yes,win
+3x3 2-player,19,1,Player3,Human,321,1 of each,-1,no,loss
+3x3 2-player,20,1,AI,AI,113,2 of a Kind,1,yes,win
+3x3 2-player,20,2,Player3,Human,221,2 of a Kind,-1,no,loss
+5x5 2-player,1,2,AI,AI,11134,Single Triple,-1,no,loss
+5x5 2-player,1,1,Player1,Human,12132,Double Double,1,yes,win
+5x5 2-player,2,2,AI,AI,15333,Single Triple,-1,yes,loss
+5x5 2-player,2,1,Player1,Human,51234,One of each,1,no,win
+5x5 2-player,3,1,AI,AI,51131,Single Triple,1,no,win
+5x5 2-player,3,2,Player1,Human,24124,Double Double,-1,yes,loss
+5x5 2-player,4,2,AI,AI,43544,Single Triple,1,yes,win
+5x5 2-player,4,1,Player1,Human,33151,Double Double,-1,no,loss
+5x5 2-player,5,1,AI,AI,23413,Single Double,-1,no,loss
+5x5 2-player,5,2,Player1,Human,52242,Single Triple,1,yes,win
+5x5 2-player,6,2,AI,AI,23243,Double Double,1,no,win
+5x5 2-player,6,1,Player1,Human,42224,Triple Double,-1,yes,loss
+5x5 2-player,7,2,AI,AI,24424,Triple Double,1,yes,win
+5x5 2-player,7,1,Player1,Human,42323,Double Double,-1,no,loss
+5x5 2-player,8,1,AI,AI,54113,Single Double,-1,no,loss
+5x5 2-player,8,2,Player1,Human,23242,Single Triple,1,yes,win
+5x5 2-player,9,2,AI,AI,55541,Single Triple,1,yes,win
+5x5 2-player,9,1,Player1,Human,11454,Double Double,-1,no,loss
+5x5 2-player,10,1,AI,AI,11345,Single Double,1,no,win
+5x5 2-player,10,2,Player1,Human,22243,Single Triple,-1,yes,loss
+5x5 2-player,11,2,AI,AI,42453,Single Double,-1,no,loss
+5x5 2-player,11,1,Player1,Human,54332,Single Double,1,yes,win
+5x5 2-player,12,2,AI,AI,55141,Double Double,-1,no,loss
+5x5 2-player,12,1,Player1,Human,53542,Single Double,1,yes,win
+5x5 2-player,13,2,AI,AI,45423,Single Double,-1,no,loss
+5x5 2-player,13,1,Player1,Human,24453,Single Double,1,yes,win
+5x5 2-player,14,2,AI,AI,13312,Double Double,1,no,win
+5x5 2-player,14,1,Player1,Human,54243,Single Double,-1,yes,loss
+5x5 2-player,15,2,AI,AI,12454,Single Double,1,no,win
+5x5 2-player,15,1,Player1,Human,53431,Single Double,-1,yes,loss
+5x5 2-player,16,2,AI,AI,53344,Double Double,-1,no,loss
+5x5 2-player,16,1,Player1,Human,55315,Single Triple,1,yes,win
+5x5 2-player,17,2,AI,AI,54531,Single Double,-1,no,loss
+5x5 2-player,17,1,Player1,Human,32444,Single Triple,1,yes,win
+5x5 2-player,18,2,AI,AI,33434,Triple Double,1,yes,win
+5x5 2-player,18,1,Player1,Human,31141,Single Triple,-1,no,loss
+5x5 2-player,19,1,AI,AI,35215,Single Double,1,yes,win
+5x5 2-player,19,2,Player1,Human,15221,Double Double,-1,no,loss
+5x5 2-player,20,1,AI,AI,51443,Single Double,1,yes,win
+5x5 2-player,20,2,Player1,Human,14522,Single Double,-1,no,loss
+5x5 2-player,1,1,AI,AI,14341,Double Double,1,no,win
+5x5 2-player,1,2,Player3,Human,25212,Single Triple,-1,yes,loss
+5x5 2-player,2,1,AI,AI,15534,Single Double,-1,no,loss
+5x5 2-player,2,2,Player3,Human,31544,Single Double,1,yes,win
+5x5 2-player,3,2,AI,AI,22453,Single Double,-1,no,loss
+5x5 2-player,3,1,Player3,Human,33533,Double Double,1,yes,win
+5x5 2-player,4,2,AI,AI,44242,Triple Double,1,no,win
+5x5 2-player,4,1,Player3,Human,15522,Double Double,-1,yes,loss
+5x5 2-player,5,1,AI,AI,11412,Single Triple,1,no,win
+5x5 2-player,5,2,Player3,Human,23342,Double Double,-1,yes,loss
+5x5 2-player,6,1,AI,AI,14415,Double Double,-1,no,loss
+5x5 2-player,6,2,Player3,Human,25551,Single Triple,1,yes,win
+5x5 2-player,7,2,AI,AI,21542,Single Double,-1,no,loss
+5x5 2-player,7,1,Player3,Human,43314,Double Double,1,yes,win
+5x5 2-player,8,2,AI,AI,52315,Single Double,-1,yes,loss
+5x5 2-player,8,1,Player3,Human,42343,Double Double,1,no,win
+5x5 2-player,9,2,AI,AI,53323,Single Triple,1,no,win
+5x5 2-player,9,1,Player3,Human,12315,Single Double,-1,yes,loss
+5x5 2-player,10,1,AI,AI,25313,Single Double,1,no,win
+5x5 2-player,10,2,Player3,Human,23424,Double Double,-1,yes,loss
+5x5 2-player,11,1,AI,AI,51441,Double Double,1,no,win
+5x5 2-player,11,2,Player3,Human,22255,Triple Double,-1,yes,loss
+5x5 2-player,12,1,AI,AI,25235,Double Double,-1,no,loss
+5x5 2-player,12,2,Player3,Human,25523,Double Double,1,yes,win
+5x5 2-player,13,2,AI,AI,55253,Single Triple,1,yes,win
+5x5 2-player,13,1,Player3,Human,13242,Single Double,-1,no,loss
+5x5 2-player,14,1,AI,AI,31442,Single Double,1,no,win
+5x5 2-player,14,2,Player3,Human,53324,Single Double,-1,yes,loss
+5x5 2-player,15,1,AI,AI,53223,Double Double,-1,no,loss
+5x5 2-player,15,2,Player3,Human,43331,Single Triple,1,yes,win
+5x5 2-player,16,2,AI,AI,41431,Double Double,1,no,win
+5x5 2-player,16,1,Player3,Human,45511,Double Double,-1,yes,loss
+5x5 2-player,17,1,AI,AI,32312,Double Double,-1,no,loss
+5x5 2-player,17,2,Player3,Human,51311,Single Triple,1,yes,win
+5x5 2-player,18,2,AI,AI,42252,Single Triple,1,no,win
+5x5 2-player,18,1,Player3,Human,33311,Triple Double,-1,yes,loss
+5x5 2-player,19,1,AI,AI,35343,Single Triple,1,yes,win
+5x5 2-player,19,2,Player3,Human,24124,Double Double,-1,no,loss
+5x5 2-player,20,1,AI,AI,32133,Single Triple,1,yes,win
+5x5 2-player,20,2,Player3,Human,12433,Single Double,-1,no,loss
+5x5 2-player,1,1,AI,AI,42124,Double Double,1,no,win
+5x5 2-player,1,2,Player4,Human,52331,Single Double,-1,yes,loss
+5x5 2-player,2,2,AI,AI,24133,Single Double,1,no,win
+5x5 2-player,2,1,Player4,Human,42523,Single Double,-1,yes,loss
+5x5 2-player,3,2,AI,AI,13555,Single Triple,1,no,win
+5x5 2-player,3,1,Player4,Human,42225,Single Triple,-1,yes,loss
+5x5 2-player,4,2,AI,AI,14351,Single Double,1,no,win
+5x5 2-player,4,1,Player4,Human,34522,Single Double,-1,yes,loss
+5x5 2-player,5,2,AI,AI,11422,Double Double,1,yes,win
+5x5 2-player,5,1,Player4,Human,21142,Double Double,-1,no,loss
+5x5 2-player,6,1,AI,AI,54113,Single Double,-1,no,loss
+5x5 2-player,6,2,Player4,Human,15441,Double Double,1,yes,win
+5x5 2-player,7,2,AI,AI,51542,Single Double,-1,yes,loss
+5x5 2-player,7,1,Player4,Human,31421,Single Double,1,no,win
+5x5 2-player,8,1,AI,AI,32112,Double Double,1,no,win
+5x5 2-player,8,2,Player4,Human,31532,Single Double,-1,yes,loss
+5x5 2-player,9,2,AI,AI,32112,Double Double,-1,yes,loss
+5x5 2-player,9,1,Player4,Human,31254,One of Each,1,no,win
+5x5 2-player,10,1,AI,AI,14124,Double Double,-1,no,loss
+5x5 2-player,10,2,Player4,Human,22122,4 of a Kind,1,yes,win
+5x5 2-player,11,2,AI,AI,15434,Single Double,-1,yes,loss
+5x5 2-player,11,1,Player4,Human,52521,Double Double,1,no,win
+5x5 2-player,12,1,AI,AI,53145,Single Double,1,yes,win
+5x5 2-player,12,2,Player4,Human,52341,One of Each,-1,no,loss
+5x5 2-player,13,1,AI,AI,32514,One of Each,-1,yes,loss
+5x5 2-player,13,2,Player4,Human,34524,Single Double,1,no,win
+5x5 2-player,14,1,AI,AI,51251,Double Double,1,no,win
+5x5 2-player,14,2,Player4,Human,45514,Double Double,-1,yes,loss
+5x5 2-player,15,2,AI,AI,31115,Single Triple,-1,yes,loss
+5x5 2-player,15,1,Player4,Human,14132,Single Double,1,no,win
+5x5 2-player,16,1,AI,AI,41244,Single Triple,1,yes,win
+5x5 2-player,16,2,Player4,Human,24534,Single Double,-1,no,loss
+5x5 2-player,17,1,AI,AI,13232,Double Double,1,no,win
+5x5 2-player,17,2,Player4,Human,54415,Double Double,-1,yes,loss
+5x5 2-player,18,2,AI,AI,22245,Single Double,-1,no,loss
+5x5 2-player,18,1,Player4,Human,11131,4 of a Kind,1,yes,win
+5x5 2-player,19,2,AI,AI,32534,Single Double,1,no,win
+5x5 2-player,19,1,Player4,Human,11432,Single Double,-1,yes,loss
+5x5 2-player,20,2,AI,AI,55231,Single Double,-1,no,loss
+5x5 2-player,20,1,Player4,Human,21333,Single Triple,1,yes,win
+5x5 2-player,1,1,AI,AI,33225,Double Double,1,no,win
+5x5 2-player,1,2,Player2,Human,14413,Double Double,-1,yes,loss
+5x5 2-player,2,2,AI,AI,22455,Double Double,-1,no,loss
+5x5 2-player,2,1,Player2,Human,52145,Single Double,1,yes,win
+5x5 2-player,3,2,AI,AI,53311,Double Double,1,no,win
+5x5 2-player,3,1,Player2,Human,52224,Single Triple,-1,yes,loss
+5x5 2-player,4,2,AI,AI,21535,Single Double,1,yes,win
+5x5 2-player,4,1,Player2,Human,31255,Single Double,-1,no,loss
+5x5 2-player,5,1,AI,AI,22153,Single Double,-1,yes,loss
+5x5 2-player,5,2,Player2,Human,31212,Double Double,1,no,win
+5x5 2-player,6,1,AI,AI,55453,Single Triple,1,yes,win
+5x5 2-player,6,2,Player2,Human,22344,Double Double,-1,no,loss
+5x5 2-player,7,1,AI,AI,52431,One of Each,-1,yes,loss
+5x5 2-player,7,2,Player2,Human,25442,Double Double,1,no,win
+5x5 2-player,8,1,AI,AI,34554,Double Double,-1,no,loss
+5x5 2-player,8,2,Player2,Human,43354,Double Double,1,yes,win
+5x5 2-player,9,2,AI,AI,14323,Single Double,1,yes,win
+5x5 2-player,9,1,Player2,Human,14433,Double Double,-1,no,loss
+5x5 2-player,10,1,AI,AI,21415,Single Double,-1,yes,loss
+5x5 2-player,10,2,Player2,Human,15234,One of Each,1,no,win
+5x5 2-player,11,1,AI,AI,54512,Single Double,1,yes,win
+5x5 2-player,11,2,Player2,Human,12445,Single Double,-1,no,loss
+5x5 2-player,12,1,AI,AI,21554,Single Double,1,yes,win
+5x5 2-player,12,2,Player2,Human,52432,Single Double,-1,no,loss
+5x5 2-player,13,1,AI,AI,25145,Single Double,1,no,win
+5x5 2-player,13,2,Player2,Human,23123,Double Double,-1,yes,loss
+5x5 2-player,14,2,AI,AI,15552,Single Triple,1,yes,win
+5x5 2-player,14,1,Player2,Human,22512,Single Triple,-1,no,loss
+5x5 2-player,15,1,AI,AI,34451,Single Double,-1,yes,loss
+5x5 2-player,15,2,Player2,Human,34552,Single Double,1,no,win
+5x5 2-player,16,1,AI,AI,45131,Single Double,-1,yes,loss
+5x5 2-player,16,2,Player2,Human,24253,Single Double,1,no,win
+5x5 2-player,17,1,AI,AI,22455,Double Double,1,yes,win
+5x5 2-player,17,2,Player2,Human,32523,Double Double,-1,no,loss
+5x5 2-player,18,1,AI,AI,41234,Single Double,-1,no,loss
+5x5 2-player,18,2,Player2,Human,11153,Single Triple,1,yes,win
+5x5 2-player,19,2,AI,AI,15454,Double Double,1,yes,win
+5x5 2-player,19,1,Player2,Human,52213,Single Double,-1,no,loss
+5x5 2-player,20,1,AI,AI,44531,Single Double,1,yes,win
+5x5 2-player,20,2,Player2,Human,35431,Single Double,-1,no,loss
+5x5 2-player,1,2,AI,AI,14321,Single Double,-1,yes,loss
+5x5 2-player,1,1,Player6,Human,24523,Single Double,1,no,win
+5x5 2-player,2,1,AI,AI,45541,Double Double,-1,no,loss
+5x5 2-player,2,2,Player6,Human,13211,Single Triple,1,yes,win
+5x5 2-player,3,2,AI,AI,33325,Single Triple,-1,no,loss
+5x5 2-player,3,1,Player6,Human,55344,Double Double,1,yes,win
+5x5 2-player,4,2,AI,AI,53231,Single Double,-1,no,loss
+5x5 2-player,4,1,Player6,Human,51333,Single Triple,1,yes,win
+5x5 2-player,5,2,AI,AI,33455,Double Double,1,no,win
+5x5 2-player,5,1,Player6,Human,22542,Single Triple,-1,yes,loss
+5x5 2-player,6,2,AI,AI,34133,Single Triple,1,no,win
+5x5 2-player,6,1,Player6,Human,53512,Single Double,-1,yes,loss
+5x5 2-player,7,2,AI,AI,21231,Double Double,1,yes,win
+5x5 2-player,7,1,Player6,Human,43214,Single Double,-1,no,loss
+5x5 2-player,8,1,AI,AI,15324,One of Each,1,no,win
+5x5 2-player,8,2,Player6,Human,23432,Double Double,-1,yes,loss
+5x5 2-player,9,2,AI,AI,54423,Single Double,1,yes,win
+5x5 2-player,9,1,Player6,Human,43355,Double Double,-1,no,loss
+5x5 2-player,10,1,AI,AI,11351,Single Triple,1,no,win
+5x5 2-player,10,2,Player6,Human,22253,Single Triple,-1,yes,loss
+5x5 2-player,11,2,AI,AI,35253,Double Double,-1,no,loss
+5x5 2-player,11,1,Player6,Human,14545,Double Double,1,yes,win
+5x5 2-player,12,2,AI,AI,33253,Single Triple,-1,no,loss
+5x5 2-player,12,1,Player6,Human,31422,Single Double,1,yes,win
+5x5 2-player,13,2,AI,AI,14421,Double Double,-1,no,loss
+5x5 2-player,13,1,Player6,Human,14555,Single Triple,1,yes,win
+5x5 2-player,14,2,AI,AI,52322,Single Triple,-1,no,loss
+5x5 2-player,14,1,Player6,Human,32333,4 of a Kind,1,yes,win
+5x5 2-player,15,2,AI,AI,34452,Single Double,-1,yes,loss
+5x5 2-player,15,1,Player6,Human,33511,Double Double,1,no,win
+5x5 2-player,16,1,AI,AI,32122,Single Triple,-1,yes,loss
+5x5 2-player,16,2,Player6,Human,15415,Double Double,1,no,win
+5x5 2-player,17,1,AI,AI,41124,Double Double,-1,yes,loss
+5x5 2-player,17,2,Player6,Human,42243,Double Double,1,no,win
+5x5 2-player,18,1,AI,AI,14342,Single Double,1,yes,win
+5x5 2-player,18,2,Player6,Human,43552,Single Double,-1,no,loss
+5x5 2-player,19,1,AI,AI,24313,Single Double,1,no,win
+5x5 2-player,19,2,Player6,Human,41523,One of Each,-1,yes,loss
+5x5 2-player,20,2,AI,AI,34421,Single Double,1,no,win
+5x5 2-player,20,1,Player6,Human,45412,Single Double,-1,yes,loss
